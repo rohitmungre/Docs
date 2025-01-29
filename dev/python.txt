@@ -1,0 +1,30 @@
+- Memory management
+- Meta programming
+- Concurrency and parallelism
+- Asynchronous programming
+- dunder functions
+- decorators
+- generators
+- iterators
+- iterable 
+- map, filter, reduce
+- reflection in python
+- typing in python 
+- context managers 
+
+Library related
+- numpy
+- pandas
+- fastapi
+- pydantic
+- asyncio
+- multprocessing 
+- pytest 
+
+frameworks 
+- pyenv 
+- poetry 
+- ruff 
+- isort 
+- black 
+- mypy 
